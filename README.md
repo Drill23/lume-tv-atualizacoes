@@ -1,7 +1,13 @@
-# Lume TV — atualizações para Android
+# Lume TV
 
-Este repositório só guarda o APK mais recente do Lume TV (celulares Android e Fire TV).
-O app avisa sozinho quando há versão nova; não é preciso baixar nada daqui.
+Lume TV é um projeto particular de streaming, criado e mantido por Adriano Almeida.
 
-Link fixo da versão mais recente:
-https://github.com/Drill23/lume-tv-atualizacoes/releases/latest/download/Lume-TV-Android.apk
+## Acesso
+
+O app não é público. Para entrar, você precisa de um código de acesso fornecido pelo criador. Peça o seu diretamente ao proprietário.
+
+## Direitos autorais
+
+© 2026 Adriano Almeida. Todos os direitos reservados.
+
+Este projeto, incluindo o app, o código e a marca Lume TV, é de propriedade exclusiva de Adriano Almeida. É proibido vender, revender, copiar, modificar ou compartilhar este projeto, no todo ou em parte, sem autorização expressa do autor. O descumprimento estará sujeito às medidas legais cabíveis.
