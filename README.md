@@ -2,7 +2,7 @@
 
 **Lume TV** é um **player de vídeo pessoal (reprodutor de mídia)** multiplataforma desenvolvido pelo **Demerzel Studio**.
 
-🌐 **Site oficial e downloads:** [https://drill23.github.io/lume-tv/](https://drill23.github.io/lume-tv/)
+🌐 **Site oficial e downloads:** [https://lume-tv-be0.pages.dev](https://lume-tv-be0.pages.dev)
 
 ## Sobre o aplicativo
 
